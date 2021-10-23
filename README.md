@@ -1,1 +1,2 @@
 # ljy
+git add ljy
